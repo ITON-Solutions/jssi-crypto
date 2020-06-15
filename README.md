@@ -1,1 +1,1 @@
-# ssi-crypto
+# jssi-crypto
